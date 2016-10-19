@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Python-3.5.2-blue.svg)
+
 这是一个爬取网易云音乐的所有的歌曲的评论数的爬虫。
 
 以下为主要思路：
