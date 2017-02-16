@@ -18,7 +18,7 @@ class Music(object):
         'DNT': '1',
         'Host': 'music.163.com',
         'Pragma': 'no-cache',
-        R'eferer': 'http://music.163.com/',
+        'Referer': 'http://music.163.com/',
         'Upgrade-Insecure-Requests': '1',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'
     }
